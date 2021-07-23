@@ -5,6 +5,7 @@
 ## Example
 
 - Widget:
+
   ![enter image description here](https://i.ibb.co/ypFBPNy/1.png)
 
 - Fully Responsive
